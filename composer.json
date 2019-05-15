@@ -1,0 +1,17 @@
+{
+    "name": "infoamin/contactform",
+    "description": "Anyone can use this package to enable a contact form functionality without any coding knowledge.",
+    "authors": [
+        {
+            "name": "Md.Aminul Islam",
+            "email": "infoamin.cse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+            "psr-4": {
+                "infoamin\\contactform\\": "src/"
+            }
+    }
+}
